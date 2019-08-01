@@ -1,0 +1,1 @@
+Welcome to the Machine Learning for Absolute Beginners course. This is a short course to help anyone, regardless of experience, become familiar with the concepts and initial procedural knowledge for building simple machine learning models.
